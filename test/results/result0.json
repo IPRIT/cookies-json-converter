@@ -1,8 +1,6 @@
 [
   {
     "domain": ".hh.ru",
-    "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
-    "expiry": 0,
     "httponly": false,
     "name": "_xsrf",
     "path": "/",
@@ -11,8 +9,6 @@
   },
   {
     "domain": ".hh.ru",
-    "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
-    "expiry": 0,
     "httponly": false,
     "name": "crypted_id",
     "path": "/",
@@ -21,8 +17,6 @@
   },
   {
     "domain": ".hh.ru",
-    "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
-    "expiry": 0,
     "httponly": false,
     "name": "hhuid",
     "path": "/",
@@ -31,8 +25,6 @@
   },
   {
     "domain": ".hh.ru",
-    "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
-    "expiry": 0,
     "httponly": false,
     "name": "potato",
     "path": "/",
@@ -41,78 +33,76 @@
   },
   {
     "domain": ".hh.ru",
-    "expires": "Sun, 22 Apr 2018 15:28:39 GMT",
-    "expiry": 1524410919,
     "httponly": false,
     "name": "_ym_visorc_156828",
     "path": "/",
     "secure": false,
-    "value": "w"
+    "value": "w",
+    "expires": "Sun, 22 Apr 2018 15:28:39 GMT",
+    "expiry": 1524410919
   },
   {
     "domain": ".hh.ru",
-    "expires": "Sun, 22 Apr 2018 15:28:39 GMT",
-    "expiry": 1524410919,
     "httponly": false,
     "name": "_ym_visorc_2646964",
     "path": "/",
     "secure": false,
-    "value": "w"
+    "value": "w",
+    "expires": "Sun, 22 Apr 2018 15:28:39 GMT",
+    "expiry": 1524410919
   },
   {
     "domain": ".hh.ru",
-    "expires": "Mon, 23 Apr 2018 10:58:04 GMT",
-    "expiry": 1524481084,
     "httponly": false,
     "name": "_ym_isad",
     "path": "/",
     "secure": false,
-    "value": "2"
+    "value": "2",
+    "expires": "Mon, 23 Apr 2018 10:58:04 GMT",
+    "expiry": 1524481084
   },
   {
     "domain": ".hh.ru",
-    "expires": "Sun, 07 Apr 2019 16:56:02 GMT",
-    "expiry": 1554656162,
     "httponly": false,
     "name": "redirect_host",
     "path": "/",
     "secure": false,
-    "value": "spb.hh.ru"
+    "value": "spb.hh.ru",
+    "expires": "Sun, 07 Apr 2019 16:56:02 GMT",
+    "expiry": 1554656162
   },
   {
     "domain": ".hh.ru",
-    "expires": "Mon, 22 Apr 2019 14:58:41 GMT",
-    "expiry": 1555945121,
     "httponly": false,
     "name": "cfids58",
     "path": "/",
     "secure": false,
-    "value": "j8qOcgXwOzq-2yRZyJvGs7UKT5KUa0Al-PQ92C2cxcfgbkgMXJg0pM02VShbt5EDgrkWXzkAEm1krBbYrBYekXOLQSyD94Wqdqp1vPjmmV5MJUMpISLFTJTeV1OuomqdT706TFS-wzQ9ZyUykASrr7nKMVLNN1K6h37awNxwQz4%3D"
+    "value": "j8qOcgXwOzq-2yRZyJvGs7UKT5KUa0Al-PQ92C2cxcfgbkgMXJg0pM02VShbt5EDgrkWXzkAEm1krBbYrBYekXOLQSyD94Wqdqp1vPjmmV5MJUMpISLFTJTeV1OuomqdT706TFS-wzQ9ZyUykASrr7nKMVLNN1K6h37awNxwQz4%3D",
+    "expires": "Mon, 22 Apr 2019 14:58:41 GMT",
+    "expiry": 1555945121
   },
   {
     "domain": ".hh.ru",
-    "expires": "Fri, 27 Mar 2020 16:56:06 GMT",
-    "expiry": 1585328166,
     "httponly": false,
     "name": "_ym_uid",
     "path": "/",
     "secure": false,
-    "value": "1523120166239806587"
+    "value": "1523120166239806587",
+    "expires": "Fri, 27 Mar 2020 16:56:06 GMT",
+    "expiry": 1585328166
   },
   {
     "domain": ".hh.ru",
-    "expires": "Tue, 21 Apr 2020 14:58:41 GMT",
-    "expiry": 1587481121,
     "httponly": false,
     "name": "auth_user",
     "path": "/",
     "secure": false,
-    "value": "8dcde2cf6f6569426f29a50fd76ba621"
+    "value": "8dcde2cf6f6569426f29a50fd76ba621",
+    "expires": "Tue, 21 Apr 2020 14:58:41 GMT",
+    "expiry": 1587481121
   },
   {
     "domain": ".hh.ru",
-    "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
-    "expiry": 0,
     "httponly": true,
     "name": "hhtoken",
     "path": "/",

@@ -21,7 +21,8 @@ function writeDebugFile (postfix, debugObject) {
 var testDomains = [
     /^(\.hh\.ru)/,
     /nanosemantics\.ru/,
-    /\.vb\.yandex\.addons/
+    /\.vb\.yandex\.addons/,
+    null
 ];
 
 for (var domainIndex in testDomains) {

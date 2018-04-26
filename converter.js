@@ -2,7 +2,7 @@
 var COOKIE_REGEXP = /^(\.?([a-zA-Zа-яА-ЯёЁ0-9-_]+\.?)*)\s(true|false)\s(\/([a-zA-Zа-яА-ЯёЁ0-9-_.]+\/?)*)\s(true|false)\s(\d+)\s(.*)\t(.*)/gmiu;
 var DEFAULT_OPTIONS = {
     ignoreErrors: false,
-    domainRegExp: /.*/
+    domainRegExp: null
 };
 
 /**
@@ -46,17 +46,29 @@ function convert (string, options) {
         }
         var isSecure = match[6] === 'TRUE';
         var expiry = Number(match[7]);
-
-        list.push({
-            domain: match[1],
+        var expiryObject = {
             expires: new Date(expiry * 1000).toUTCString(),
-            expiry: expiry,
+            expiry: expiry
+        };
+
+        var cookieObject = {
+            domain: match[1],
             httponly: isSecure,
             name: match[8],
             path: match[4],
             secure: isSecure,
             value: match[9]
-        });
+        };
+
+        if (expiry) {
+            Object.assign(cookieObject, expiryObject);
+        }
+
+        list.push(cookieObject);
+    }
+
+    if (!domainRegExp) {
+        return list;
     }
 
     return list.filter(function (cookieObject) {

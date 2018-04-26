@@ -1,8 +1,6 @@
 [
   {
     "domain": ".cdn.nanosemantics.ru",
-    "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
-    "expiry": 0,
     "httponly": false,
     "name": "__utmc",
     "path": "/",
@@ -11,62 +9,62 @@
   },
   {
     "domain": ".cdn.nanosemantics.ru",
-    "expires": "Sun, 22 Apr 2018 15:08:06 GMT",
-    "expiry": 1524409686,
     "httponly": false,
     "name": "__utmt_vishnu1",
     "path": "/",
     "secure": false,
-    "value": "1"
+    "value": "1",
+    "expires": "Sun, 22 Apr 2018 15:08:06 GMT",
+    "expiry": 1524409686
   },
   {
     "domain": ".cdn.nanosemantics.ru",
-    "expires": "Sun, 22 Apr 2018 15:28:42 GMT",
-    "expiry": 1524410922,
     "httponly": false,
     "name": "__utmb",
     "path": "/",
     "secure": false,
-    "value": "176608247.2.10.1524409086"
+    "value": "176608247.2.10.1524409086",
+    "expires": "Sun, 22 Apr 2018 15:28:42 GMT",
+    "expiry": 1524410922
   },
   {
     "domain": ".cdn.nanosemantics.ru",
-    "expires": "Mon, 22 Oct 2018 02:58:42 GMT",
-    "expiry": 1540177122,
     "httponly": false,
     "name": "__utmz",
     "path": "/",
     "secure": false,
-    "value": "176608247.1524409086.2.2.utmcsr%3Dspb.hh.ru%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2F"
+    "value": "176608247.1524409086.2.2.utmcsr%3Dspb.hh.ru%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2F",
+    "expires": "Mon, 22 Oct 2018 02:58:42 GMT",
+    "expiry": 1540177122
   },
   {
     "domain": ".cdn.nanosemantics.ru",
-    "expires": "Tue, 21 Apr 2020 14:58:42 GMT",
-    "expiry": 1587481122,
     "httponly": false,
     "name": "__utma",
     "path": "/",
     "secure": false,
-    "value": "176608247.1895816987.1523120170.1523120170.1524409086.2"
+    "value": "176608247.1895816987.1523120170.1523120170.1524409086.2",
+    "expires": "Tue, 21 Apr 2020 14:58:42 GMT",
+    "expiry": 1587481122
   },
   {
     "domain": ".nanosemantics.ru",
-    "expires": "Sun, 07 Apr 2019 16:56:24 GMT",
-    "expiry": 1554656184,
     "httponly": false,
     "name": "vishnu1.cuid",
     "path": "/",
     "secure": false,
-    "value": ""
+    "value": "",
+    "expires": "Sun, 07 Apr 2019 16:56:24 GMT",
+    "expiry": 1554656184
   },
   {
     "domain": ".nanosemantics.ru",
-    "expires": "Mon, 22 Apr 2019 14:58:41 GMT",
-    "expiry": 1555945121,
     "httponly": false,
     "name": "vishnu1.userid",
     "path": "/",
     "secure": false,
-    "value": "D49CBFBFF6DB6994D3496D91BD430287A5471C6F722104504734B32F0D03E9F8"
+    "value": "D49CBFBFF6DB6994D3496D91BD430287A5471C6F722104504734B32F0D03E9F8",
+    "expires": "Mon, 22 Apr 2019 14:58:41 GMT",
+    "expiry": 1555945121
   }
 ]

@@ -1,0 +1,1242 @@
+[
+  {
+    "domain": ".1dmp.io",
+    "httponly": false,
+    "name": "uid",
+    "path": "/",
+    "secure": false,
+    "value": "92371e60-3a84-11e8-a960-d43d7eece3f6",
+    "expires": "Tue, 04 Apr 2028 16:56:09 GMT",
+    "expiry": 1838480169
+  },
+  {
+    "domain": ".adhigh.net",
+    "httponly": false,
+    "name": "gi_u",
+    "path": "/",
+    "secure": false,
+    "value": "PpCcAOtdBMV",
+    "expires": "Mon, 22 Apr 2019 14:58:14 GMT",
+    "expiry": 1555945094
+  },
+  {
+    "domain": ".adnxs.com",
+    "httponly": false,
+    "name": "anj",
+    "path": "/",
+    "secure": false,
+    "value": "dTM7k!M4%2F8DYRWSF'%5DwIg2In%3DdA%3DH%40!%5DtbPB*SQLOsH%60E.g3VsV(u%5Dh",
+    "expires": "Fri, 06 Jul 2018 16:56:24 GMT",
+    "expiry": 1530896184
+  },
+  {
+    "domain": ".adnxs.com",
+    "httponly": false,
+    "name": "uuid2",
+    "path": "/",
+    "secure": false,
+    "value": "8504022587291810946",
+    "expires": "Fri, 06 Jul 2018 16:56:24 GMT",
+    "expiry": 1530896184
+  },
+  {
+    "domain": ".an.yandex.ru",
+    "httponly": false,
+    "name": "yabs-vdrf",
+    "path": "/",
+    "secure": false,
+    "value": "BeznQ400edbC10",
+    "expires": "Sun, 29 Apr 2018 14:58:18 GMT",
+    "expiry": 1525013898
+  },
+  {
+    "domain": ".cdn.nanosemantics.ru",
+    "httponly": false,
+    "name": "__utmc",
+    "path": "/",
+    "secure": false,
+    "value": "176608247"
+  },
+  {
+    "domain": ".cdn.nanosemantics.ru",
+    "httponly": false,
+    "name": "__utmt_vishnu1",
+    "path": "/",
+    "secure": false,
+    "value": "1",
+    "expires": "Sun, 22 Apr 2018 15:08:06 GMT",
+    "expiry": 1524409686
+  },
+  {
+    "domain": ".cdn.nanosemantics.ru",
+    "httponly": false,
+    "name": "__utmb",
+    "path": "/",
+    "secure": false,
+    "value": "176608247.2.10.1524409086",
+    "expires": "Sun, 22 Apr 2018 15:28:42 GMT",
+    "expiry": 1524410922
+  },
+  {
+    "domain": ".cdn.nanosemantics.ru",
+    "httponly": false,
+    "name": "__utmz",
+    "path": "/",
+    "secure": false,
+    "value": "176608247.1524409086.2.2.utmcsr%3Dspb.hh.ru%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2F",
+    "expires": "Mon, 22 Oct 2018 02:58:42 GMT",
+    "expiry": 1540177122
+  },
+  {
+    "domain": ".cdn.nanosemantics.ru",
+    "httponly": false,
+    "name": "__utma",
+    "path": "/",
+    "secure": false,
+    "value": "176608247.1895816987.1523120170.1523120170.1524409086.2",
+    "expires": "Tue, 21 Apr 2020 14:58:42 GMT",
+    "expiry": 1587481122
+  },
+  {
+    "domain": ".creativecdn.com",
+    "httponly": false,
+    "name": "ts",
+    "path": "/",
+    "secure": false,
+    "value": "1523120169",
+    "expires": "Mon, 06 Apr 2020 16:56:09 GMT",
+    "expiry": 1586192169
+  },
+  {
+    "domain": ".creativecdn.com",
+    "httponly": false,
+    "name": "u",
+    "path": "/",
+    "secure": false,
+    "value": "hgWsiopLVUTKsooEpWjm",
+    "expires": "Mon, 06 Apr 2020 16:56:09 GMT",
+    "expiry": 1586192169
+  },
+  {
+    "domain": ".criteo.com",
+    "httponly": false,
+    "name": "eid",
+    "path": "/",
+    "secure": false,
+    "value": "*13SffE0gnK5tFdNoEzi49teVoSiYCKxu%252bXGezuOhCIAAkNOKx5t72DqTB37f65p%252bxqYiTguk5K%252bpSYKy6ceHnbA8D3bEMTwy8sOnsV4ZTGZtQA9u2p6W7S%252b3z2uL7n7ia",
+    "expires": "Mon, 22 Oct 2018 14:58:45 GMT",
+    "expiry": 1540220325
+  },
+  {
+    "domain": ".criteo.com",
+    "httponly": false,
+    "name": "zdi",
+    "path": "/",
+    "secure": false,
+    "value": "*18WbSrpMFQwu3CpYtH0jvjA%253d%253d",
+    "expires": "Mon, 22 Oct 2018 14:58:45 GMT",
+    "expiry": 1540220325
+  },
+  {
+    "domain": ".criteo.com",
+    "httponly": false,
+    "name": "uid",
+    "path": "/",
+    "secure": false,
+    "value": "1d5a7555-6636-42ff-9b40-2091dc19139b",
+    "expires": "Sun, 07 Apr 2019 16:56:12 GMT",
+    "expiry": 1554656172
+  },
+  {
+    "domain": ".doubleclick.net",
+    "httponly": false,
+    "name": "DSID",
+    "path": "/",
+    "secure": false,
+    "value": "NO_DATA",
+    "expires": "Sun, 22 Apr 2018 15:58:46 GMT",
+    "expiry": 1524412726
+  },
+  {
+    "domain": ".doubleclick.net",
+    "httponly": false,
+    "name": "IDE",
+    "path": "/",
+    "secure": false,
+    "value": "AHWqTUnYnxVZ54KQi085fGH2LGArlJoiu_qG_ThTMj30lYnCrunSyooirYChQgel",
+    "expires": "Mon, 06 Apr 2020 16:56:12 GMT",
+    "expiry": 1586192172
+  },
+  {
+    "domain": ".facebook.com",
+    "httponly": true,
+    "name": "fr",
+    "path": "/",
+    "secure": true,
+    "value": "0jx1Jf67JXttAIluW..BayPgq...1.0.Ba3KMA.",
+    "expires": "Sat, 21 Jul 2018 14:58:08 GMT",
+    "expiry": 1532185088
+  },
+  {
+    "domain": ".google.com",
+    "httponly": false,
+    "name": "NID",
+    "path": "/",
+    "secure": false,
+    "value": "127%3Dv_bKVCXKWiQaN28KMJQu2tlSgF_UECCpZz2TgFJCBrUTfPNrNMUAE3x3bmXPD7dStRP7EvG6p-vMJ0TINoqDioyUjptU1tglHD9-k5O91AS4WKt9KI3Zgr4Y307FeCNE",
+    "expires": "Sun, 07 Oct 2018 16:55:50 GMT",
+    "expiry": 1538931350
+  },
+  {
+    "domain": ".google.com",
+    "httponly": false,
+    "name": "NID",
+    "path": "/",
+    "secure": false,
+    "value": "128%3DMyfzr50diuU_QNFAANIjv6UmoFouyXp_JMdFwCm2Ez-i5fmX6OWNF5WCiYjCe1EDLgHypFtruXvnF30kWgYtELSzPTz4mG18qLwEsKYmpgsdKuOvUa_9F7nCRzJ8baoV",
+    "expires": "Mon, 22 Oct 2018 14:57:07 GMT",
+    "expiry": 1540220227
+  },
+  {
+    "domain": ".hh.ru",
+    "httponly": false,
+    "name": "_xsrf",
+    "path": "/",
+    "secure": false,
+    "value": "95af51253db669d226030752e37840ce"
+  },
+  {
+    "domain": ".hh.ru",
+    "httponly": false,
+    "name": "crypted_id",
+    "path": "/",
+    "secure": false,
+    "value": "D49CBFBFF6DB6994D3496D91BD430287A5471C6F722104504734B32F0D03E9F8"
+  },
+  {
+    "domain": ".hh.ru",
+    "httponly": false,
+    "name": "hhuid",
+    "path": "/",
+    "secure": false,
+    "value": "EqNJch!K8SsxXVrI_CItMQ--"
+  },
+  {
+    "domain": ".hh.ru",
+    "httponly": false,
+    "name": "potato",
+    "path": "/",
+    "secure": false,
+    "value": "potato"
+  },
+  {
+    "domain": ".hh.ru",
+    "httponly": false,
+    "name": "_ym_visorc_156828",
+    "path": "/",
+    "secure": false,
+    "value": "w",
+    "expires": "Sun, 22 Apr 2018 15:28:39 GMT",
+    "expiry": 1524410919
+  },
+  {
+    "domain": ".hh.ru",
+    "httponly": false,
+    "name": "_ym_visorc_2646964",
+    "path": "/",
+    "secure": false,
+    "value": "w",
+    "expires": "Sun, 22 Apr 2018 15:28:39 GMT",
+    "expiry": 1524410919
+  },
+  {
+    "domain": ".hh.ru",
+    "httponly": false,
+    "name": "_ym_isad",
+    "path": "/",
+    "secure": false,
+    "value": "2",
+    "expires": "Mon, 23 Apr 2018 10:58:04 GMT",
+    "expiry": 1524481084
+  },
+  {
+    "domain": ".hh.ru",
+    "httponly": false,
+    "name": "redirect_host",
+    "path": "/",
+    "secure": false,
+    "value": "spb.hh.ru",
+    "expires": "Sun, 07 Apr 2019 16:56:02 GMT",
+    "expiry": 1554656162
+  },
+  {
+    "domain": ".hh.ru",
+    "httponly": false,
+    "name": "cfids58",
+    "path": "/",
+    "secure": false,
+    "value": "j8qOcgXwOzq-2yRZyJvGs7UKT5KUa0Al-PQ92C2cxcfgbkgMXJg0pM02VShbt5EDgrkWXzkAEm1krBbYrBYekXOLQSyD94Wqdqp1vPjmmV5MJUMpISLFTJTeV1OuomqdT706TFS-wzQ9ZyUykASrr7nKMVLNN1K6h37awNxwQz4%3D",
+    "expires": "Mon, 22 Apr 2019 14:58:41 GMT",
+    "expiry": 1555945121
+  },
+  {
+    "domain": ".hh.ru",
+    "httponly": false,
+    "name": "_ym_uid",
+    "path": "/",
+    "secure": false,
+    "value": "1523120166239806587",
+    "expires": "Fri, 27 Mar 2020 16:56:06 GMT",
+    "expiry": 1585328166
+  },
+  {
+    "domain": ".hh.ru",
+    "httponly": false,
+    "name": "auth_user",
+    "path": "/",
+    "secure": false,
+    "value": "8dcde2cf6f6569426f29a50fd76ba621",
+    "expires": "Tue, 21 Apr 2020 14:58:41 GMT",
+    "expiry": 1587481121
+  },
+  {
+    "domain": ".hh.ru",
+    "httponly": true,
+    "name": "hhtoken",
+    "path": "/",
+    "secure": true,
+    "value": "9oGEBhaUPPHC_xUZhtYEEAGiiZ60"
+  },
+  {
+    "domain": ".kinopoisk.ru",
+    "httponly": false,
+    "name": "mobile",
+    "path": "/",
+    "secure": false,
+    "value": "no",
+    "expires": "Sun, 29 Apr 2018 14:58:08 GMT",
+    "expiry": 1525013888
+  },
+  {
+    "domain": ".kinopoisk.ru",
+    "httponly": true,
+    "name": "PHPSESSID",
+    "path": "/",
+    "secure": true,
+    "value": "s29kjh0lrh5d0f6ermf03d87i1"
+  },
+  {
+    "domain": ".kinopoisk.ru",
+    "httponly": true,
+    "name": "yandex_gid",
+    "path": "/",
+    "secure": true,
+    "value": "213"
+  },
+  {
+    "domain": ".kinopoisk.ru",
+    "httponly": true,
+    "name": "user_country",
+    "path": "/",
+    "secure": true,
+    "value": "ru",
+    "expires": "Sun, 22 Apr 2018 15:58:08 GMT",
+    "expiry": 1524412688
+  },
+  {
+    "domain": ".kinopoisk.ru",
+    "httponly": true,
+    "name": "tc",
+    "path": "/",
+    "secure": true,
+    "value": "1",
+    "expires": "Mon, 23 Apr 2018 14:58:08 GMT",
+    "expiry": 1524495488
+  },
+  {
+    "domain": ".kinopoisk.ru",
+    "httponly": true,
+    "name": "i",
+    "path": "/",
+    "secure": true,
+    "value": "qGlkDhmCtbPbAYh1yLzLS%2BKbM%2B9RpRRJ9cVduUpMLdfbuwArOHpSlSmb9qMGD88EXfR6TstExGp1%2FJ3zp1yW4bCA2O8%3D",
+    "expires": "Wed, 19 Apr 2028 14:58:12 GMT",
+    "expiry": 1839769092
+  },
+  {
+    "domain": ".lenta.ru",
+    "httponly": false,
+    "name": "is_mobile",
+    "path": "/",
+    "secure": false,
+    "value": "0"
+  },
+  {
+    "domain": ".lenta.ru",
+    "httponly": false,
+    "name": "lids",
+    "path": "/",
+    "secure": false,
+    "value": "4824319A28C1EBBA",
+    "expires": "Sun, 22 Apr 2018 15:28:08 GMT",
+    "expiry": 1524410888
+  },
+  {
+    "domain": ".lenta.ru",
+    "httponly": false,
+    "name": "lid",
+    "path": "/",
+    "secure": false,
+    "value": "vAsAAASj3FqaMW6LAbrwCgB%3D",
+    "expires": "Thu, 31 Dec 2037 23:55:55 GMT",
+    "expiry": 2145916555
+  },
+  {
+    "domain": ".livetex.ru",
+    "httponly": false,
+    "name": "1gdmbsc",
+    "path": "/",
+    "secure": false,
+    "value": "io%3Aio-1-push11-livetex-ru%3Asession%3Av38mretyqxif5uyp66r",
+    "expires": "Sun, 06 May 2018 14:58:48 GMT",
+    "expiry": 1525618728
+  },
+  {
+    "domain": ".mail.ru",
+    "httponly": false,
+    "name": "VID",
+    "path": "/",
+    "secure": false,
+    "value": "0-yUyJ0eh3Xh0000080G541h%3A%3A%3A",
+    "expires": "Sat, 24 Apr 2021 14:58:43 GMT",
+    "expiry": 1619276323
+  },
+  {
+    "domain": ".market.yandex.ru",
+    "httponly": false,
+    "name": "head-banner",
+    "path": "/",
+    "secure": false,
+    "value": "%257B%2522closingCounter%2522%253A0%252C%2522showingCounter%2522%253A1%252C%2522shownAfterClicked%2522%253Afalse%252C%2522isClicked%2522%253Afalse%257D",
+    "expires": "Sat, 22 Apr 2028 14:58:11 GMT",
+    "expiry": 1840028291
+  },
+  {
+    "domain": ".market.yandex.ru",
+    "httponly": false,
+    "name": "cmp-merge",
+    "path": "/",
+    "secure": false,
+    "value": "TRUE",
+    "expires": "Thu, 31 Dec 2037 21:00:00 GMT",
+    "expiry": 2145906000
+  },
+  {
+    "domain": ".market.yandex.ru",
+    "httponly": false,
+    "name": "reviews-merge",
+    "path": "/",
+    "secure": false,
+    "value": "TRUE",
+    "expires": "Thu, 31 Dec 2037 21:00:00 GMT",
+    "expiry": 2145906000
+  },
+  {
+    "domain": ".market.yandex.ru",
+    "httponly": true,
+    "name": "parent_reqid_seq",
+    "path": "/",
+    "secure": true,
+    "value": "9fa9b023773e6e475ece79a9dc66301d"
+  },
+  {
+    "domain": ".nanosemantics.ru",
+    "httponly": false,
+    "name": "vishnu1.cuid",
+    "path": "/",
+    "secure": false,
+    "value": "",
+    "expires": "Sun, 07 Apr 2019 16:56:24 GMT",
+    "expiry": 1554656184
+  },
+  {
+    "domain": ".nanosemantics.ru",
+    "httponly": false,
+    "name": "vishnu1.userid",
+    "path": "/",
+    "secure": false,
+    "value": "D49CBFBFF6DB6994D3496D91BD430287A5471C6F722104504734B32F0D03E9F8",
+    "expires": "Mon, 22 Apr 2019 14:58:41 GMT",
+    "expiry": 1555945121
+  },
+  {
+    "domain": ".rambler.ru",
+    "httponly": false,
+    "name": "ruid",
+    "path": "/",
+    "secure": false,
+    "value": "1CIAACv4yFpIfvdLAd0IWwB%3D",
+    "expires": "Thu, 31 Dec 2037 23:55:55 GMT",
+    "expiry": 2145916555
+  },
+  {
+    "domain": ".rfihub.com",
+    "httponly": false,
+    "name": "euds",
+    "path": "/",
+    "secure": false,
+    "value": "H4sIAAAAAAAAAOOSMXR2dA129SmyiPIrSQup9E_0zPFyydbVLSqOtwAAa9X9Qh4AAAA"
+  },
+  {
+    "domain": ".rfihub.com",
+    "httponly": false,
+    "name": "ruds",
+    "path": "/",
+    "secure": false,
+    "value": "H4sIAAAAAAAAAOMStjA1MLE0MrU0MrQwNzE1szQ3MxTiM9R1isw2c3XUNfXyDfAFAKyqQ0AlAAAA"
+  },
+  {
+    "domain": ".rfihub.com",
+    "httponly": false,
+    "name": "eud",
+    "path": "/",
+    "secure": false,
+    "value": "H4sIAAAAAAAAAOOSMXR2dA129SmyiPIrSQup9E_0zPFyydbVLSqOtwjiNTQ1MjExsDQ0MrewNHjFiMoHACNu23c9AAAA",
+    "expires": "Fri, 17 May 2019 14:58:47 GMT",
+    "expiry": 1558105127
+  },
+  {
+    "domain": ".rfihub.com",
+    "httponly": false,
+    "name": "rud",
+    "path": "/",
+    "secure": false,
+    "value": "H4sIAAAAAAAAAOMStjA1MLE0MrU0MrQwNzE1szQ3MxTiM9R1isw2c3XUNfXyDfCV4jU0NTIxMbA0NDK3sDQAANuAeZs0AAAA",
+    "expires": "Fri, 17 May 2019 14:58:47 GMT",
+    "expiry": 1558105127
+  },
+  {
+    "domain": ".rfihub.com",
+    "httponly": false,
+    "name": "smd",
+    "path": "/",
+    "secure": false,
+    "value": "H4sIAAAAAAAAAOPiNTQ1MjExsDQ0MrewNAAAYX-o8A8AAAA",
+    "expires": "Fri, 17 May 2019 14:58:47 GMT",
+    "expiry": 1558105127
+  },
+  {
+    "domain": ".scorecardresearch.com",
+    "httponly": false,
+    "name": "UID",
+    "path": "/",
+    "secure": false,
+    "value": "17F2aa22a31a69afb42c7dg1523120171",
+    "expires": "Fri, 27 Mar 2020 16:56:11 GMT",
+    "expiry": 1585328171
+  },
+  {
+    "domain": ".scorecardresearch.com",
+    "httponly": false,
+    "name": "UIDR",
+    "path": "/",
+    "secure": false,
+    "value": "1523120171",
+    "expires": "Fri, 27 Mar 2020 16:56:11 GMT",
+    "expiry": 1585328171
+  },
+  {
+    "domain": ".spb.hh.ru",
+    "httponly": false,
+    "name": "cfids58",
+    "path": "/",
+    "secure": false,
+    "value": "g7CNaT0Mk7dbJ9uZ-rOPL9n%2BfLlfBSxlpZENOKkrbc3NMi2NEBu7aZ42w1v5HX3ekXRxGrNcLXI2lByZNM3v8rD0OnruiTWWbJna9bCld-3ZS91-WHCYWuc9Rlw-ZBe-GuB31c3gp593ErCnLgexmUSBhyeYkZbPkawY6rPPiy8%3D",
+    "expires": "Mon, 22 Apr 2019 14:58:41 GMT",
+    "expiry": 1555945121
+  },
+  {
+    "domain": ".spb.hh.ru",
+    "httponly": false,
+    "name": "last_visit",
+    "path": "/",
+    "secure": false,
+    "value": "1524398319078%3A%3A1524409119078",
+    "expires": "Sat, 16 Jan 2021 14:58:39 GMT",
+    "expiry": 1610809119
+  },
+  {
+    "domain": ".tns-counter.ru",
+    "httponly": false,
+    "name": "guid",
+    "path": "/",
+    "secure": false,
+    "value": "F5E310135AC8F82FX1523120175",
+    "expires": "Thu, 31 Dec 2037 23:55:55 GMT",
+    "expiry": 2145916555
+  },
+  {
+    "domain": ".turn.com",
+    "httponly": false,
+    "name": "uid",
+    "path": "/",
+    "secure": false,
+    "value": "4350389877356554518",
+    "expires": "Thu, 04 Oct 2018 16:56:18 GMT",
+    "expiry": 1538672178
+  },
+  {
+    "domain": ".vk.com",
+    "httponly": false,
+    "name": "remixlang",
+    "path": "/",
+    "secure": false,
+    "value": "0",
+    "expires": "Sat, 13 Apr 2019 01:02:53 GMT",
+    "expiry": 1555117373
+  },
+  {
+    "domain": ".vk.com",
+    "httponly": false,
+    "name": "remixstid",
+    "path": "/",
+    "secure": false,
+    "value": "1620029443_12f7eb2d7817b83e44",
+    "expires": "Sun, 21 Apr 2019 04:07:16 GMT",
+    "expiry": 1555819636
+  },
+  {
+    "domain": ".vk.com",
+    "httponly": false,
+    "name": "remixlhk",
+    "path": "/",
+    "secure": false,
+    "value": "4c273dc0f0f387e8d7",
+    "expires": "Sun, 21 Apr 2019 11:08:33 GMT",
+    "expiry": 1555844913
+  },
+  {
+    "domain": ".wikipedia.org",
+    "httponly": true,
+    "name": "GeoIP",
+    "path": "/",
+    "secure": true,
+    "value": "RU%3ASPE%3ASt_Petersburg%3A59.93%3A30.20%3Av4"
+  },
+  {
+    "domain": ".wikipedia.org",
+    "httponly": true,
+    "name": "WMF-Last-Access-Global",
+    "path": "/",
+    "secure": true,
+    "value": "22-Apr-2018",
+    "expires": "Thu, 24 May 2018 12:00:00 GMT",
+    "expiry": 1527163200
+  },
+  {
+    "domain": ".ya.ru",
+    "httponly": false,
+    "name": "ys",
+    "path": "/",
+    "secure": false,
+    "value": "vbff.2-34-4"
+  },
+  {
+    "domain": ".ya.ru",
+    "httponly": false,
+    "name": "yp",
+    "path": "/",
+    "secure": false,
+    "value": "1523292947.gpauto.59_717442500000004%253A30_077164099999997%253A63%253A3%253A1523120147",
+    "expires": "Thu, 31 Dec 2037 21:00:00 GMT",
+    "expiry": 2145906000
+  },
+  {
+    "domain": ".yadro.ru",
+    "httponly": false,
+    "name": "VID",
+    "path": "/",
+    "secure": false,
+    "value": "1_vx0W1IwQfh1QoFWf00LEHZ",
+    "expires": "Sat, 06 Apr 2019 21:00:00 GMT",
+    "expiry": 1554584400
+  },
+  {
+    "domain": ".yandex.by",
+    "httponly": false,
+    "name": "ys",
+    "path": "/",
+    "secure": false,
+    "value": "vbff.2-34-4"
+  },
+  {
+    "domain": ".yandex.by",
+    "httponly": false,
+    "name": "yp",
+    "path": "/",
+    "secure": false,
+    "value": "1523292947.gpauto.59_717442500000004%253A30_077164099999997%253A63%253A3%253A1523120147",
+    "expires": "Thu, 31 Dec 2037 21:00:00 GMT",
+    "expiry": 2145906000
+  },
+  {
+    "domain": ".yandex.com",
+    "httponly": false,
+    "name": "ys",
+    "path": "/",
+    "secure": false,
+    "value": "vbff.2-34-4"
+  },
+  {
+    "domain": ".yandex.com",
+    "httponly": false,
+    "name": "yp",
+    "path": "/",
+    "secure": false,
+    "value": "1523292947.gpauto.59_717442500000004%253A30_077164099999997%253A63%253A3%253A1523120147",
+    "expires": "Thu, 31 Dec 2037 21:00:00 GMT",
+    "expiry": 2145906000
+  },
+  {
+    "domain": ".yandex.com.tr",
+    "httponly": false,
+    "name": "ys",
+    "path": "/",
+    "secure": false,
+    "value": "vbff.2-34-4"
+  },
+  {
+    "domain": ".yandex.com.tr",
+    "httponly": false,
+    "name": "yp",
+    "path": "/",
+    "secure": false,
+    "value": "1523292947.gpauto.59_717442500000004%253A30_077164099999997%253A63%253A3%253A1523120147",
+    "expires": "Thu, 31 Dec 2037 21:00:00 GMT",
+    "expiry": 2145906000
+  },
+  {
+    "domain": ".yandex.kz",
+    "httponly": false,
+    "name": "ys",
+    "path": "/",
+    "secure": false,
+    "value": "vbff.2-34-4"
+  },
+  {
+    "domain": ".yandex.kz",
+    "httponly": false,
+    "name": "yp",
+    "path": "/",
+    "secure": false,
+    "value": "1523292947.gpauto.59_717442500000004%253A30_077164099999997%253A63%253A3%253A1523120147",
+    "expires": "Thu, 31 Dec 2037 21:00:00 GMT",
+    "expiry": 2145906000
+  },
+  {
+    "domain": ".yandex.net",
+    "httponly": false,
+    "name": "ys",
+    "path": "/",
+    "secure": false,
+    "value": "vbff.2-34-4"
+  },
+  {
+    "domain": ".yandex.net",
+    "httponly": false,
+    "name": "yp",
+    "path": "/",
+    "secure": false,
+    "value": "1523292947.gpauto.59_717442500000004%253A30_077164099999997%253A63%253A3%253A1523120147",
+    "expires": "Thu, 31 Dec 2037 21:00:00 GMT",
+    "expiry": 2145906000
+  },
+  {
+    "domain": ".yandex.ru",
+    "httponly": false,
+    "name": "ys",
+    "path": "/",
+    "secure": false,
+    "value": "vbff.2-34-4"
+  },
+  {
+    "domain": ".yandex.ru",
+    "httponly": false,
+    "name": "yandex_gid",
+    "path": "/",
+    "secure": false,
+    "value": "15",
+    "expires": "Tue, 22 May 2018 14:58:11 GMT",
+    "expiry": 1527001091
+  },
+  {
+    "domain": ".yandex.ru",
+    "httponly": false,
+    "name": "mda",
+    "path": "/",
+    "secure": false,
+    "value": "0",
+    "expires": "Mon, 20 Aug 2018 14:58:11 GMT",
+    "expiry": 1534777091
+  },
+  {
+    "domain": ".yandex.ru",
+    "httponly": false,
+    "name": "i",
+    "path": "/",
+    "secure": false,
+    "value": "M0Fx4DerI3KXBSIBI%2FlVhk2cpNSPDodyVsD6VmZ0sqF5eVE2j5QkJoYW%2F%2FxhyxlQ2lQul8PXJitFGMZMuJ%2B70Z%2BusCE%3D",
+    "expires": "Tue, 04 Apr 2028 16:56:09 GMT",
+    "expiry": 1838480169
+  },
+  {
+    "domain": ".yandex.ru",
+    "httponly": false,
+    "name": "yandexuid",
+    "path": "/",
+    "secure": false,
+    "value": "495555061523120169",
+    "expires": "Tue, 04 Apr 2028 16:56:09 GMT",
+    "expiry": 1838480169
+  },
+  {
+    "domain": ".yandex.ru",
+    "httponly": false,
+    "name": "my",
+    "path": "/",
+    "secure": false,
+    "value": "YwA%3D",
+    "expires": "Tue, 04 Apr 2028 16:56:18 GMT",
+    "expiry": 1838480178
+  },
+  {
+    "domain": ".yandex.ru",
+    "httponly": false,
+    "name": "yp",
+    "path": "/",
+    "secure": false,
+    "value": "1838480169.yrts.1523120169%231554656179.old.1%231527001091.ygu.1",
+    "expires": "Wed, 19 Apr 2028 14:58:11 GMT",
+    "expiry": 1839769091
+  },
+  {
+    "domain": ".yandex.ua",
+    "httponly": false,
+    "name": "ys",
+    "path": "/",
+    "secure": false,
+    "value": "vbff.2-34-4"
+  },
+  {
+    "domain": ".yandex.ua",
+    "httponly": false,
+    "name": "yp",
+    "path": "/",
+    "secure": false,
+    "value": "1523292947.gpauto.59_717442500000004%253A30_077164099999997%253A63%253A3%253A1523120147",
+    "expires": "Thu, 31 Dec 2037 21:00:00 GMT",
+    "expiry": 2145906000
+  },
+  {
+    "domain": ".yastatic.net",
+    "httponly": false,
+    "name": "_ym_uid",
+    "path": "/",
+    "secure": false,
+    "value": "1523120174625111594",
+    "expires": "Fri, 27 Mar 2020 16:56:13 GMT",
+    "expiry": 1585328173
+  },
+  {
+    "domain": ".youtube.com",
+    "httponly": false,
+    "name": "YSC",
+    "path": "/",
+    "secure": false,
+    "value": "jhtSD4BNwV4"
+  },
+  {
+    "domain": ".youtube.com",
+    "httponly": false,
+    "name": "VISITOR_INFO1_LIVE",
+    "path": "/",
+    "secure": false,
+    "value": "XmKU4i_4JM4",
+    "expires": "Fri, 19 Oct 2018 14:58:12 GMT",
+    "expiry": 1539961092
+  },
+  {
+    "domain": ".youtube.com",
+    "httponly": false,
+    "name": "PREF",
+    "path": "/",
+    "secure": false,
+    "value": "f1%3D50000000",
+    "expires": "Sat, 22 Dec 2018 02:51:12 GMT",
+    "expiry": 1545447072
+  },
+  {
+    "domain": "backup1.vb.yandex.addons",
+    "httponly": false,
+    "name": "settings",
+    "path": "/",
+    "secure": false,
+    "value": "displayMode.titles",
+    "expires": "Wed, 25 Apr 2018 14:58:10 GMT",
+    "expiry": 1524668290
+  },
+  {
+    "domain": "backup1.vb.yandex.addons",
+    "httponly": false,
+    "name": "thumb0",
+    "path": "/",
+    "secure": false,
+    "value": "pin.1%23visits.5%23url.https%253A%252F%252Fwww.yandex.ru%252F%253Fclid%253D1929744%23title.%25D0%25AF%25D0%25BD%25D0%25B4%25D0%25B5%25D0%25BA%25D1%2581",
+    "expires": "Wed, 25 Apr 2018 14:58:10 GMT",
+    "expiry": 1524668290
+  },
+  {
+    "domain": "backup1.vb.yandex.addons",
+    "httponly": false,
+    "name": "thumb1",
+    "path": "/",
+    "secure": false,
+    "value": "pin.0%23visits.10%23url.https%253A%252F%252Fmail.yandex.ru%252F%253Ffrom%253Dvbff%23title.%25D0%25AF%25D0%25BD%25D0%25B4%25D0%25B5%25D0%25BA%25D1%2581.%25D0%259F%25D0%25BE%25D1%2587%25D1%2582%25D0%25B0%2520%25E2%2580%2594%2520%25D0%25B1%25D0%25B5%25D1%2581%25D0%25BF%25D0%25BB%25D0%25B0%25D1%2582%25D0%25BD%25D0%25B0%25D1%258F%2520%25D1%258D%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25BD%25D0%25BD%25D0%25B0%25D1%258F%2520%25D0%25BF%25D0%25BE%25D1%2587%25D1%2582%25D0%25B0",
+    "expires": "Wed, 25 Apr 2018 14:58:10 GMT",
+    "expiry": 1524668290
+  },
+  {
+    "domain": "backup1.vb.yandex.addons",
+    "httponly": false,
+    "name": "thumb10",
+    "path": "/",
+    "secure": false,
+    "value": "pin.0%23visits.5%23url.https%253A%252F%252Fru.wikipedia.org%252F%23title.%25D0%2592%25D0%25B8%25D0%25BA%25D0%25B8%25D0%25BF%25D0%25B5%25D0%25B4%25D0%25B8%25D1%258F%2520%25E2%2580%2594%2520%25D1%2581%25D0%25B2%25D0%25BE%25D0%25B1%25D0%25BE%25D0%25B4%25D0%25BD%25D0%25B0%25D1%258F%2520%25D1%258D%25D0%25BD%25D1%2586%25D0%25B8%25D0%25BA%25D0%25BB%25D0%25BE%25D0%25BF%25D0%25B5%25D0%25B4%25D0%25B8%25D1%258F",
+    "expires": "Wed, 25 Apr 2018 14:58:10 GMT",
+    "expiry": 1524668290
+  },
+  {
+    "domain": "backup1.vb.yandex.addons",
+    "httponly": false,
+    "name": "thumb11",
+    "path": "/",
+    "secure": false,
+    "value": "pin.0%23visits.5%23url.https%253A%252F%252Ftv.yandex.ru%252F%23title.%25D0%259F%25D1%2580%25D0%25BE%25D0%25B3%25D1%2580%25D0%25B0%25D0%25BC%25D0%25BC%25D0%25B0%2520%25D0%25BF%25D0%25B5%25D1%2580%25D0%25B5%25D0%25B4%25D0%25B0%25D1%2587%2520%25D0%25BD%25D0%25B0%2520%25D1%2581%25D0%25B5%25D0%25B3%25D0%25BE%25D0%25B4%25D0%25BD%25D1%258F%2520%25D0%25B2%2520%25D0%25A1%25D0%25B0%25D0%25BD%25D0%25BA%25D1%2582-%25D0%259F%25D0%25B5%25D1%2582%25D0%25B5%25D1%2580%25D0%25B1%25D1%2583%25D1%2580%25D0%25B3%25D0%25B5%2520%25E2%2580%2594%2520%25D0%25AF%25D0%25BD%25D0%25B4%25D0%25B5%25D0%25BA%25D1%2581.%25D0%25A2%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25BF%25D1%2580%25D0%25BE%25D0%25B3%25D1%2580%25D0%25B0%25D0%25BC%25D0%25BC%25D0%25B0",
+    "expires": "Wed, 25 Apr 2018 14:58:10 GMT",
+    "expiry": 1524668290
+  },
+  {
+    "domain": "backup1.vb.yandex.addons",
+    "httponly": false,
+    "name": "thumb2",
+    "path": "/",
+    "secure": false,
+    "value": "pin.0%23visits.5%23url.https%253A%252F%252Fmaps.yandex.ru%252F%253Ffrom%253Dvbff%23title.%25D0%25AF%25D0%25BD%25D0%25B4%25D0%25B5%25D0%25BA%25D1%2581.%25D0%259A%25D0%25B0%25D1%2580%25D1%2582%25D1%258B%2520%25E2%2580%2594%2520%25D0%25BF%25D0%25BE%25D0%25B4%25D1%2580%25D0%25BE%25D0%25B1%25D0%25BD%25D0%25B0%25D1%258F%2520%25D0%25BA%25D0%25B0%25D1%2580%25D1%2582%25D0%25B0%2520%25D0%25A0%25D0%25BE%25D1%2581%25D1%2581%25D0%25B8%25D0%25B8%2520%25D0%25B8%2520%25D0%25BC%25D0%25B8%25D1%2580%25D0%25B0",
+    "expires": "Wed, 25 Apr 2018 14:58:10 GMT",
+    "expiry": 1524668290
+  },
+  {
+    "domain": "backup1.vb.yandex.addons",
+    "httponly": false,
+    "name": "thumb3",
+    "path": "/",
+    "secure": false,
+    "value": "pin.0%23visits.5%23url.https%253A%252F%252Fmarket.yandex.ru%252F%253Ffrom%253Dvbff%2526clid%253D2165178%23title.%25D0%25AF%25D0%25BD%25D0%25B4%25D0%25B5%25D0%25BA%25D1%2581.%25D0%259C%25D0%25B0%25D1%2580%25D0%25BA%25D0%25B5%25D1%2582%2520%25E2%2580%2594%2520%25D0%25B2%25D1%258B%25D0%25B1%25D0%25BE%25D1%2580%2520%25D0%25B8%2520%25D0%25BF%25D0%25BE%25D0%25BA%25D1%2583%25D0%25BF%25D0%25BA%25D0%25B0%2520%25D1%2582%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2580%25D0%25BE%25D0%25B2%2520%25D0%25B8%25D0%25B7%2520%25D0%25BF%25D1%2580%25D0%25BE%25D0%25B2%25D0%25B5%25D1%2580%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258B%25D1%2585%2520%25D0%25B8%25D0%25BD%25D1%2582%25D0%25B5%25D1%2580%25D0%25BD%25D0%25B5%25D1%2582-%25D0%25BC%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25B7%25D0%25B8%25D0%25BD%25D0%25BE%25D0%25B2",
+    "expires": "Wed, 25 Apr 2018 14:58:10 GMT",
+    "expiry": 1524668290
+  },
+  {
+    "domain": "backup1.vb.yandex.addons",
+    "httponly": false,
+    "name": "thumb4",
+    "path": "/",
+    "secure": false,
+    "value": "pin.0%23visits.5%23url.https%253A%252F%252Fmusic.yandex.ru%252F%253Ffrom%253Dvbff%23title.%25D0%25AF%25D0%25BD%25D0%25B4%25D0%25B5%25D0%25BA%25D1%2581.%25D0%259C%25D1%2583%25D0%25B7%25D1%258B%25D0%25BA%25D0%25B0",
+    "expires": "Wed, 25 Apr 2018 14:58:10 GMT",
+    "expiry": 1524668290
+  },
+  {
+    "domain": "backup1.vb.yandex.addons",
+    "httponly": false,
+    "name": "thumb5",
+    "path": "/",
+    "secure": false,
+    "value": "pin.0%23visits.5%23url.https%253A%252F%252Fvk.com%252F%23title.%25D0%2594%25D0%25BE%25D0%25B1%25D1%2580%25D0%25BE%2520%25D0%25BF%25D0%25BE%25D0%25B6%25D0%25B0%25D0%25BB%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2582%25D1%258C%2520%257C%2520%25D0%2592%25D0%259A%25D0%25BE%25D0%25BD%25D1%2582%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B5",
+    "expires": "Wed, 25 Apr 2018 14:58:10 GMT",
+    "expiry": 1524668290
+  },
+  {
+    "domain": "backup1.vb.yandex.addons",
+    "httponly": false,
+    "name": "thumb6",
+    "path": "/",
+    "secure": false,
+    "value": "pin.0%23visits.5%23url.http%253A%252F%252Flenta.ru%252F%23title.Lenta.ru",
+    "expires": "Wed, 25 Apr 2018 14:58:10 GMT",
+    "expiry": 1524668290
+  },
+  {
+    "domain": "backup1.vb.yandex.addons",
+    "httponly": false,
+    "name": "thumb7",
+    "path": "/",
+    "secure": false,
+    "value": "pin.0%23visits.5%23url.https%253A%252F%252Fsoft.yandex.ru%252F%253Ffrom%253Dvb_dist%23title.%25D0%25AF%25D0%25BD%25D0%25B4%25D0%25B5%25D0%25BA%25D1%2581.%25D0%259F%25D1%2580%25D0%25BE%25D0%25B3%25D1%2580%25D0%25B0%25D0%25BC%25D0%25BC%25D1%258B",
+    "expires": "Wed, 25 Apr 2018 14:58:10 GMT",
+    "expiry": 1524668290
+  },
+  {
+    "domain": "backup1.vb.yandex.addons",
+    "httponly": false,
+    "name": "thumb8",
+    "path": "/",
+    "secure": false,
+    "value": "pin.0%23visits.5%23url.https%253A%252F%252Fyoutube.com%252F%23title.YouTube",
+    "expires": "Wed, 25 Apr 2018 14:58:10 GMT",
+    "expiry": 1524668290
+  },
+  {
+    "domain": "backup1.vb.yandex.addons",
+    "httponly": false,
+    "name": "thumb9",
+    "path": "/",
+    "secure": false,
+    "value": "pin.0%23visits.5%23url.http%253A%252F%252Fwww.kinopoisk.ru%252F%23title.%25D0%259A%25D0%25B8%25D0%25BD%25D0%25BE%25D0%259F%25D0%25BE%25D0%25B8%25D1%2581%25D0%25BA%2520%25E2%2580%2594%2520%25D0%2592%25D1%2581%25D0%25B5%2520%25D1%2584%25D0%25B8%25D0%25BB%25D1%258C%25D0%25BC%25D1%258B%2520%25D0%25BF%25D0%25BB%25D0%25B0%25D0%25BD%25D0%25B5%25D1%2582%25D1%258B",
+    "expires": "Wed, 25 Apr 2018 14:58:10 GMT",
+    "expiry": 1524668290
+  },
+  {
+    "domain": "balancer-cloud.livetex.ru",
+    "httponly": false,
+    "name": "lt-io",
+    "path": "/get-server/",
+    "secure": false,
+    "value": "io1-2-push11.livetex.ru"
+  },
+  {
+    "domain": "hh.ru",
+    "httponly": false,
+    "name": "_xsrf",
+    "path": "/",
+    "secure": false,
+    "value": "95af51253db669d226030752e37840ce"
+  },
+  {
+    "domain": "hhid.ru",
+    "httponly": false,
+    "name": "potato",
+    "path": "/",
+    "secure": false,
+    "value": "1523120162177"
+  },
+  {
+    "domain": "hhid.ru",
+    "httponly": false,
+    "name": "hhuid",
+    "path": "/",
+    "secure": false,
+    "value": "EqNJch!K8SsxXVrI_CItMQ--",
+    "expires": "Mon, 06 Apr 2020 16:56:02 GMT",
+    "expiry": 1586192162
+  },
+  {
+    "domain": "hhid.ru",
+    "httponly": true,
+    "name": "hhtoken",
+    "path": "/",
+    "secure": true,
+    "value": "9oGEBhaUPPHC_xUZhtYEEAGiiZ60"
+  },
+  {
+    "domain": "market.yandex.ru",
+    "httponly": false,
+    "name": "uid",
+    "path": "/",
+    "secure": false,
+    "value": "AABbhlrcowOHVQD9RZ%2F9Ag%3D%3D"
+  },
+  {
+    "domain": "mc.yandex.ru",
+    "httponly": false,
+    "name": "yabs-sid",
+    "path": "/",
+    "secure": false,
+    "value": "940489711523120169"
+  },
+  {
+    "domain": "ru.wikipedia.org",
+    "httponly": true,
+    "name": "CP",
+    "path": "/",
+    "secure": true,
+    "value": "H2"
+  },
+  {
+    "domain": "ru.wikipedia.org",
+    "httponly": true,
+    "name": "WMF-Last-Access",
+    "path": "/",
+    "secure": true,
+    "value": "22-Apr-2018",
+    "expires": "Thu, 24 May 2018 12:00:00 GMT",
+    "expiry": 1527163200
+  },
+  {
+    "domain": "spb.hh.ru",
+    "httponly": false,
+    "name": "GMT",
+    "path": "/",
+    "secure": false,
+    "value": "3"
+  },
+  {
+    "domain": "spb.hh.ru",
+    "httponly": false,
+    "name": "_xsrf",
+    "path": "/",
+    "secure": false,
+    "value": "95af51253db669d226030752e37840ce"
+  },
+  {
+    "domain": "spb.hh.ru",
+    "httponly": false,
+    "name": "crypted_id",
+    "path": "/",
+    "secure": false,
+    "value": "D49CBFBFF6DB6994D3496D91BD430287A5471C6F722104504734B32F0D03E9F8"
+  },
+  {
+    "domain": "spb.hh.ru",
+    "httponly": false,
+    "name": "display",
+    "path": "/",
+    "secure": false,
+    "value": "desktop"
+  },
+  {
+    "domain": "spb.hh.ru",
+    "httponly": false,
+    "name": "hhrole",
+    "path": "/",
+    "secure": false,
+    "value": "employer"
+  },
+  {
+    "domain": "spb.hh.ru",
+    "httponly": false,
+    "name": "_gat_main",
+    "path": "/",
+    "secure": false,
+    "value": "1",
+    "expires": "Sun, 22 Apr 2018 14:59:04 GMT",
+    "expiry": 1524409144
+  },
+  {
+    "domain": "spb.hh.ru",
+    "httponly": false,
+    "name": "_gat_reg",
+    "path": "/",
+    "secure": false,
+    "value": "1",
+    "expires": "Sun, 22 Apr 2018 14:59:04 GMT",
+    "expiry": 1524409144
+  },
+  {
+    "domain": "spb.hh.ru",
+    "httponly": false,
+    "name": "unique_banner_user",
+    "path": "/",
+    "secure": false,
+    "value": "1524409087.16909079213875",
+    "expires": "Mon, 23 Apr 2018 14:58:07 GMT",
+    "expiry": 1524495487
+  },
+  {
+    "domain": "spb.hh.ru",
+    "httponly": false,
+    "name": "_gid",
+    "path": "/",
+    "secure": false,
+    "value": "GA1.1.719382204.1524409084",
+    "expires": "Mon, 23 Apr 2018 14:58:38 GMT",
+    "expiry": 1524495518
+  },
+  {
+    "domain": "spb.hh.ru",
+    "httponly": false,
+    "name": "tmr_detect",
+    "path": "/",
+    "secure": false,
+    "value": "0%257C1524409122038",
+    "expires": "Mon, 23 Apr 2018 14:58:42 GMT",
+    "expiry": 1524495522
+  },
+  {
+    "domain": "spb.hh.ru",
+    "httponly": false,
+    "name": "regions",
+    "path": "/",
+    "secure": false,
+    "value": "2",
+    "expires": "Sun, 07 Apr 2019 16:56:03 GMT",
+    "expiry": 1554656163
+  },
+  {
+    "domain": "spb.hh.ru",
+    "httponly": false,
+    "name": "_ga",
+    "path": "/",
+    "secure": false,
+    "value": "GA1.1.913025897.1523120162",
+    "expires": "Tue, 21 Apr 2020 14:58:38 GMT",
+    "expiry": 1587481118
+  },
+  {
+    "domain": "spb.hh.ru",
+    "httponly": true,
+    "name": "_hi",
+    "path": "/",
+    "secure": true,
+    "value": "60300195"
+  },
+  {
+    "domain": "statad.ru",
+    "httponly": false,
+    "name": "uid",
+    "path": "/",
+    "secure": false,
+    "value": "139D5676B875796A5F5D8D3A75E582A4",
+    "expires": "Tue, 06 Apr 2021 16:56:09 GMT",
+    "expiry": 1617728169
+  },
+  {
+    "domain": "yastatic.net",
+    "httponly": false,
+    "name": "pcs3",
+    "path": "/safeframe-bundles/0.33/1-1-0/",
+    "secure": false,
+    "value": "1",
+    "expires": "Mon, 23 Apr 2018 14:57:57 GMT",
+    "expiry": 1524495477
+  },
+  {
+    "domain": "yastatic.net",
+    "httponly": false,
+    "name": "pcs_for_net-rtb-direct",
+    "path": "/safeframe-bundles/0.33/1-1-0/",
+    "secure": false,
+    "value": "1",
+    "expires": "Mon, 23 Apr 2018 14:57:57 GMT",
+    "expiry": 1524495477
+  },
+  {
+    "domain": "yastatic.net",
+    "httponly": false,
+    "name": "pcs_for_net-rtb-dsp",
+    "path": "/safeframe-bundles/0.33/1-1-0/",
+    "secure": false,
+    "value": "1",
+    "expires": "Mon, 23 Apr 2018 14:58:31 GMT",
+    "expiry": 1524495511
+  }
+]
