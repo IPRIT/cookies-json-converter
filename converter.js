@@ -16,10 +16,10 @@ function mergeOptions (options, defaultOptions) {
 /**
  * Throws errors conditionally if `ignoreErrors` is true
  * @param {string|*} error
- * @param {boolean} ignore
+ * @param {boolean} ignoreErrors
  */
-function throwError (error, ignore) {
-    if (!ignore) {
+function throwError (error, ignoreErrors) {
+    if (!ignoreErrors) {
         throw (typeof error === 'string' ? new Error(error) : error);
     }
 }
