@@ -1,0 +1,120 @@
+[
+    {
+        "domain": "hh.ru",
+        "httponly": false,
+        "name": "GMT",
+        "path": "/",
+        "secure": false,
+        "value": "3"
+    },
+    {
+        "domain": ".hh.ru",
+        "httponly": false,
+        "name": "GMT",
+        "path": "/",
+        "secure": false,
+        "value": "3"
+    },
+    {
+        "domain": "hh.ru",
+        "httponly": false,
+        "name": "_xsrf",
+        "path": "/",
+        "secure": false,
+        "value": "38e569c9fa273b192e5d2f156a34e483"
+    },
+    {
+        "domain": ".hh.ru",
+        "httponly": false,
+        "name": "_xsrf",
+        "path": "/",
+        "secure": false,
+        "value": "38e569c9fa273b192e5d2f156a34e483"
+    },
+    {
+        "domain": ".hh.ru",
+        "expires": "пт, 14 февр. 2020 15:56:34 GMT",
+        "expiry": 1581695794,
+        "httponly": false,
+        "name": "auth_user",
+        "path": "/",
+        "secure": false,
+        "value": "1226e76e5756fb55ce8c10a67f3995c5"
+    },
+    {
+        "domain": "hh.ru",
+        "httponly": false,
+        "name": "crypted_id",
+        "path": "/",
+        "secure": false,
+        "value": "0217B2572309B8C08013D695F3D7E3B1A5471C6F722104504734B32F0D03E9F8"
+    },
+    {
+        "domain": ".hh.ru",
+        "httponly": false,
+        "name": "crypted_id",
+        "path": "/",
+        "secure": false,
+        "value": "0217B2572309B8C08013D695F3D7E3B1A5471C6F722104504734B32F0D03E9F8"
+    },
+    {
+        "domain": ".hh.ru",
+        "httponly": false,
+        "name": "display",
+        "path": "/",
+        "secure": false,
+        "value": "desktop"
+    },
+    {
+        "domain": "hh.ru",
+        "httponly": false,
+        "name": "hhrole",
+        "path": "/",
+        "secure": false,
+        "value": "employer"
+    },
+    {
+        "domain": ".hh.ru",
+        "httponly": false,
+        "name": "hhrole",
+        "path": "/",
+        "secure": false,
+        "value": "employer"
+    },
+    {
+        "domain": ".hh.ru",
+        "httponly": true,
+        "name": "hhtoken",
+        "path": "/",
+        "secure": true,
+        "value": "z2H!zw!rK8oZ31SnGTzFr53xqWKl"
+    },
+    {
+        "domain": ".hh.ru",
+        "httponly": false,
+        "name": "hhuid",
+        "path": "/",
+        "secure": false,
+        "value": "iF!hILQUXI3T!1pwkO0y1Q--"
+    },
+    {
+        "domain": "hh.ru",
+        "expires": "ср, 30 янв. 2019 15:36:13 GMT",
+        "expiry": 1548862573,
+        "httponly": false,
+        "name": "regions",
+        "path": "/",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": "hh.ru",
+        "expires": "чт, 01 марта 2018 11:23:38 GMT",
+        "expiry": 1519903418,
+        "httponly": false,
+        "name": "unique_banner_user",
+        "path": "/",
+        "secure": false,
+        "value": "1519817018.6825254561330"
+    }
+]
